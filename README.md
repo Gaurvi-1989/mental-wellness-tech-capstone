@@ -37,7 +37,7 @@ mental-wellness-tech-capstone
 ├── app.py                            
 ├── survey.csv                        
 └── README.md                         
-## Importanat links
+## Important links
 
 ## Acknowledgements
 1. Dataset Source: Mental Health in Tech Survey
