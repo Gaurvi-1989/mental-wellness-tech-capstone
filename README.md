@@ -1,6 +1,11 @@
+# CAPSTONE PROJECT: OPEN LEARN 
 
-# 📊 Mental Wellness in Tech: Capstone Project
 
+# 📊 Mental Wellness in Tech: 
+
+🧾 Student Information
+Name: Gaurvi Maheshwari
+Roll No.: 24109033
 This repository contains analysis and interactive tools designed to understand and address mental health in the tech workforce, using advanced machine learning and data science.
 
 ## 🚀 Project Overview
