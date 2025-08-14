@@ -208,7 +208,7 @@ def eda():
         • Those who report frequent work interference are far more likely to seek mental health treatment.
         """)
 
-    st.image(r"C:\Users\mitan\Desktop\gm kaggle\b2.png", caption="Bivariate Analysis (2)", use_container_width=False)
+    st.image("Images/b2.png", caption="Bivariate Analysis (2)", use_container_width=False)
     st.markdown("""
     ###   
     Company Mental Health Benefits vs. Treatment Seeking
