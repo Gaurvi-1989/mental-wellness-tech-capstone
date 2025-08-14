@@ -10,16 +10,16 @@ This repository contains analysis and interactive tools designed to understand a
 ## 📂Project structure
 mental-wellness-tech-capstone
 .
-├── Images/                   # Visual assets for results, diagrams, and plots
-│   ├── b1.png                 # Bivariate graph 1
-│   ├── b2.png                 # Bivariate graph 2
-│   ├── c1.png                 # Classification-related graph 1
-│   ├── c2.png                 # Classification-related graph 2
-│   ├── classification.png     # Main classification pipeline diagram
-│   ├── cm1.png                # Confusion matrix visualization
-│   ├── m1.png                 # Multivariate plot
-│   ├── u1.png                 # Univariate plot 1
-│   ├── u2.png                 # Univariate plot 2
+├── Images/                  
+│   ├── b1.png                
+│   ├── b2.png               
+│   ├── c1.png                
+│   ├── c2.png                
+│   ├── classification.png     
+│   ├── cm1.png               
+│   ├── m1.png           
+│   ├── u1.png                
+│   ├── u2.png                
 │
 
 ├── Models                  
