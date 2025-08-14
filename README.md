@@ -38,7 +38,9 @@ mental-wellness-tech-capstone
 ├── survey.csv                        
 └── README.md                         
 ## Important links
-
+👾Streamlit app - 
+🔗Technical report - [click here to check out](https://medium.com/@gaurvimaheshwari04/mental-heath-in-tech-machine-learning-analysis-persona-segmentation-242b69f53e8b)
 ## Acknowledgements
-1. Dataset Source: Mental Health in Tech Survey
+1. Dataset Source: [mental Health in Tech Survey](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
+
 2. OpenLearn Cohort 1.0 Mentors & Team
