@@ -26,19 +26,19 @@ mental-wellness-tech-capstone
 ├── Models & Dataset/                 
 │   ├── classification_model.pkl
 │   ├── regression_model.pkl
-│   └── df.pkl                
+│   └── data.pkl                
        
 ├── Notebooks/                       
-│   ├── classification_model.ipynb
+│  
 │   ├── clustering.ipynb
 │   ├── EDA.ipynb
-│   └── regression_model.ipynb
+│   └──classification_model and regression_model.ipynb
 
 ├── app.py                            
 ├── survey.csv                        
 └── README.md                         
 ## Important links
-👾Streamlit app - 
+👾Streamlit app - [click here to check out](https://openlearncapstone-gaurvi-7ws3zftovtxgrueum3jgcv.streamlit.app/)
 🔗Technical report - [click here to check out](https://medium.com/@gaurvimaheshwari04/mental-heath-in-tech-machine-learning-analysis-persona-segmentation-242b69f53e8b)
 ## Acknowledgements
 1. Dataset Source: [mental Health in Tech Survey](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
