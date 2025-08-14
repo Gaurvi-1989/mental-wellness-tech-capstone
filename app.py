@@ -459,9 +459,7 @@ def classification():
         use_container_width=True
     )
 
-    st.image("Images/classification.png",
-             caption="Model ROC Curves — how well we separate Yes vs No seekers.",
-             use_container_width=True)
+    st.image("Images/classification.png",caption="Model ROC Curves — how well we separate Yes vs No seekers.",use_container_width=True)
 
     st.success("🏆 Best performer: **XGB Classifier** (slightly ahead of Random Forest).")
 
@@ -570,7 +568,7 @@ def clustering():
         - **t-SNE** → Visualized complex relationships  
         - **UMAP** → Best at revealing sharp, well-formed clusters
     """)
-    st.image(r"C:\Users\mitan\Desktop\gm kaggle\c1.png", caption="PCA, t‑SNE & UMAP in action", use_container_width=True)
+    st.image("Images/c1.png", caption="PCA, t‑SNE & UMAP in action", use_container_width=True)
    
     st.divider()
     st.markdown("#### 📊 Who Clustered Best?")
