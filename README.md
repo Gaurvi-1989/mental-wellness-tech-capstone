@@ -7,6 +7,27 @@ This repository contains analysis and interactive tools designed to understand a
 - Predicts who may seek mental health treatment (classification)
 - Explores age patterns in mental health (regression)
 - Segments tech employees into meaningful personas (clustering + UMAP)
+- ✨ Features
+🔍 1. Predictive Modeling
+Goal: Identify individuals more likely to seek mental health treatment.
+Tech: XGBoost & Random Forest classification models.
+Output: ROC curves, confusion matrices, and feature importance plots.
+
+📈 2. Regression Analysis
+Goal: Examine how age influences mental health indicators.
+Tech: Linear & Ridge regression.
+Output: Regression plots with statistical summaries.
+
+🧩 3. Clustering & Personas
+
+Goal: Segment tech workers into mental wellness personas.
+Tech: K-Means, DBSCAN, PCA, and UMAP dimensionality reduction.
+Output: Persona descriptions and cluster visualizations.
+
+📊 4. Interactive Data Exploration
+Visualizations: Univariate, bivariate, multivariate plots.
+Tools: Streamlit-powered dashboard for live analy
+
 ## 📂Project structure
 mental-wellness-tech-capstone
 .
