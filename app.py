@@ -10,9 +10,9 @@ import xgboost
 #loading my models
 df = joblib.load("models/data.pkl")
 
-clf_model = joblib.load(r"C:\Users\mitan\Downloads\classification_model.pkl")
+clf_model = joblib.load("models/classification_model.pkl")
 
-reg_model = joblib.load(r"C:\Users\mitan\Downloads\regression_model.pkl")
+reg_model = joblib.load("models/regression_model.pkl")
 
 page_bg = """
 <style>
