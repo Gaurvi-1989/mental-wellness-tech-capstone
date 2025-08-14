@@ -9,21 +9,20 @@ This repository contains analysis and interactive tools designed to understand a
 - Segments tech employees into meaningful personas (clustering + UMAP)
 ## 📂Project structure
 mental-wellness-tech-capstone
-├── Images/                            
-  ├── bivariate1.png
-   ├── bivariate2.png
-  ├── cluster0.png
-  ├── cluster1.png
-  ├── cluster2.png
-  ├── cluster3.png
-  ├── dimred.png
-  ├── multivariate1.png
-  ├── multivariate2.png
-  ├── ROC Curve - Classification.png
-  ├── univariate1.png
-  └── univariate2.png
+.
+├── Images/                   # Visual assets for results, diagrams, and plots
+│   ├── b1.png                 # Bivariate graph 1
+│   ├── b2.png                 # Bivariate graph 2
+│   ├── c1.png                 # Classification-related graph 1
+│   ├── c2.png                 # Classification-related graph 2
+│   ├── classification.png     # Main classification pipeline diagram
+│   ├── cm1.png                # Confusion matrix visualization
+│   ├── m1.png                 # Multivariate plot
+│   ├── u1.png                 # Univariate plot 1
+│   ├── u2.png                 # Univariate plot 2
+│
 
-├── Models & Dataset/                 
+├── Models                  
 │   ├── classification_model.pkl
 │   ├── regression_model.pkl
 │   └── data.pkl                
@@ -35,7 +34,7 @@ mental-wellness-tech-capstone
 │   └──classification_model and regression_model.ipynb
 
 ├── app.py                            
-├── survey.csv                        
+├─  requirements.txt                   
 └── README.md                         
 ## Important links
 👾Streamlit app - [click here to check out](https://openlearncapstone-gaurvi-7ws3zftovtxgrueum3jgcv.streamlit.app/)
