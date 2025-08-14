@@ -152,7 +152,7 @@ def eda():
 
     st.divider()
     st.header("Univariate Analysis")
-    st.image(r"C:\Users\mitan\Desktop\gm kaggle\u1.png", caption="Univariate Analysis (1)", use_container_width=True)
+    st.image("Images/u1.png", caption="Univariate Analysis (1)", use_container_width=True)
 
     col1, col2 = st.columns(2)
     with col1:
@@ -170,7 +170,7 @@ def eda():
         - Other: `1.4%`
         """)
     
-    st.image(r"C:\Users\mitan\Desktop\gm kaggle\u2.png",  caption="Univariate Analysis (2)", use_container_width=True)
+    st.image("Images/u2.png",  caption="Univariate Analysis (2)", use_container_width=True)
 
     col1, col2 = st.columns(2)
     with col1:
@@ -192,7 +192,7 @@ def eda():
     
     st.divider()
     st.header("Bivariate Analysis")
-    st.image(r"C:\Users\mitan\Desktop\gm kaggle\b1.png", caption="Bivariate Analysis (1)", use_container_width=True)
+    st.image("Images/b1.png", caption="Bivariate Analysis (1)", use_container_width=True)
 
     col1, col2 = st.columns(2)
     with col1:
@@ -225,7 +225,7 @@ Providing mental health benefits — and clearly communicating them — signific
     """)
     st.divider()
     st.header("Multivariate Analysis")
-    st.image(r"c:\Users\mitan\Desktop\gm kaggle\m1.png", caption="Multivariate Analysis (1)", use_container_width=True)
+    st.image("Images/m1.png", caption="Multivariate Analysis (1)", use_container_width=True)
 
     col1, col2 = st.columns(2)
     with col1:
@@ -247,7 +247,7 @@ Providing mental health benefits — and clearly communicating them — signific
 
     st.divider()
     st.header("Correlation Heatmap")
-    st.image(r"C:\Users\mitan\Desktop\gm kaggle\cm1.png", caption="Correlation Heatmap", use_container_width=True)
+    st.image("Images/cm1.png", caption="Correlation Heatmap", use_container_width=True)
 
 # ===============================
 # 📉 REGRESSION MODULE - Predict Age
@@ -459,7 +459,7 @@ def classification():
         use_container_width=True
     )
 
-    st.image(r"C:\\Users\\mitan\\Desktop\\gm kaggle\\classification.png",
+    st.image("Images/classification.png",
              caption="Model ROC Curves — how well we separate Yes vs No seekers.",
              use_container_width=True)
 
@@ -581,7 +581,7 @@ def clustering():
         - **DBSCAN:** 0.2192 — fragmented with noise/outliers  
         Result? **6 personas** that actually make sense in the real world.
     """)
-    st.image(r"C:\Users\mitan\Desktop\gm kaggle\c2.png", caption="Clustering Algorithm Comparison", use_container_width=True)
+    st.image("Images/c2.png", caption="Clustering Algorithm Comparison", use_container_width=True)
     
 
     st.divider()
