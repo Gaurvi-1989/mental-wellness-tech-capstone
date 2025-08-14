@@ -35,7 +35,7 @@ def footer():
     <small>⚡ Crafted with curiosity & coffee by <b>Gaurvi Maheshwari</b> ⚡ | 
     [Kaggle](https://www.kaggle.com/gaurvimaheshwari) • 
     [GitHub](https://github.com/Gaurvi-1989) • 
-    [LinkedIn](www.linkedin.com/in/gaurvi-maheshwari-5a8404263) </small>
+    [LinkedIn](https://www.linkedin.com/in/gaurvi-maheshwari-5a8404263/) </small>
     """, unsafe_allow_html=True)
 
 
